@@ -1,0 +1,11 @@
+print('Hellow world')
+print('My name Anubhav')
+print('Roll.no 35')
+print('UNITD UNIVERCITY')
+print('BCA SECTON A')
+print('I am complete my schooling from KVS School')
+print('My stream is commerce')
+print(' My interest in  python subject' )
+print('bus no.UU15')
+print('python is easy language')
+
